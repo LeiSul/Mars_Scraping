@@ -28,3 +28,6 @@ This code reflects the updates for the Web App to pull the new Mars Hemisphere I
 
 #### Image modification
 ![thumbnail](resources/thumbnail.png)
+
+#### Successful Mobile View
+![mobile view](resources/mobile.png)
